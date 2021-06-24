@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624546206 source:c:\c\seqlist\test.c
+	"SeqList.h"
+
+1624545727 c:\c\seqlist\seqlist.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1624546141 source:c:\c\seqlist\seqlist.c
+	"SeqList.h"
+
