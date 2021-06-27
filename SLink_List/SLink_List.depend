@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624802549 source:c:\c\slink_list\slink_list.c
+	"SLink_List.h"
+
+1624802716 c:\c\slink_list\slink_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1624802703 source:c:\c\slink_list\test.c
+	"SLink_List.h"
+
